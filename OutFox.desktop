@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=OutFox
+GenericName=Rhythm and dance game
+TryExec=OutFox
+Exec=OutFox
+Terminal=false
+Icon=OutFox
+Type=Application
+Categories=Application;Game;ArcadeGame
+Comment=A cross-platform rhythm video game.
